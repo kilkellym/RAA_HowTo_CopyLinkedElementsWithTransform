@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>RAA_HowTo_CopyLinkedElementsWithTransform - Command 1</Text>
+    <Description>Some description for RAA_HowTo_CopyLinkedElementsWithTransform</Description>
+    <Assembly>RAA_HowTo_CopyLinkedElementsWithTransform.dll</Assembly>
+    <FullClassName>RAA_HowTo_CopyLinkedElementsWithTransform.Command1</FullClassName>
+    <ClientId>b9d576f3-02d4-41c5-bd2a-0126ec5457a0</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>RAA_HowTo_CopyLinkedElementsWithTransform - Command 2</Text>
+    <Description>Some description for RAA_HowTo_CopyLinkedElementsWithTransform</Description>
+    <Assembly>RAA_HowTo_CopyLinkedElementsWithTransform.dll</Assembly>
+    <FullClassName>RAA_HowTo_CopyLinkedElementsWithTransform.Command2</FullClassName>
+    <ClientId>a5477363-7a51-4218-b7b1-0d5d1d54345b</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>RAA_HowTo_CopyLinkedElementsWithTransform</Name>
+    <Assembly>RAA_HowTo_CopyLinkedElementsWithTransform.dll</Assembly>
+    <FullClassName>RAA_HowTo_CopyLinkedElementsWithTransform.App</FullClassName>
+    <ClientId>dc3bb146-f4a0-4831-b331-b67788ea9dcb</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
